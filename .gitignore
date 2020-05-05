@@ -1,0 +1,5 @@
+vendor/*
+!vendor/vendor.json
+runtime
+.idea
+logs
